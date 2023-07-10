@@ -10,7 +10,7 @@
 
 #### - [_Celsius to Fahrenheit_](https://github.com/ShivaSaiV/TensorFlow-Development/blob/main/TensorFlow%20for%20Deep%20Learning/CelsiustoFahrenheit.ipynb)
 
-  - Very simple model (Dense network) with single layer to convert values from Celsius to Fahrenheit. 
+  - Very simple model (Dense network) with single layer (first model) and 3 layers (new model) to convert values from Celsius to Fahrenheit. 
 
 
 
