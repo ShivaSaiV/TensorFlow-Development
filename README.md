@@ -9,6 +9,7 @@ _Netflix Stock Price Predictor_: In progress
 _**TensorFlow for Deep Learning**_: In progress (Udacity)
 
 - _Celsius to Fahrenheit_
+
   - Very simple model (Dense network) with single layer to convert values from Celsius to Fahrenheit. 
 
 
