@@ -5,6 +5,7 @@
 - Creating a model to forecast future stock price
 
 
+
 _**TensorFlow for Deep Learning**_: (Udacity)
 
 - Celsius to Fahrenheit
@@ -13,7 +14,7 @@ _**TensorFlow for Deep Learning**_: (Udacity)
 
 
 _**ML with Python Course**_: (freeCodeCamp)
-
+    
 - Flower Classifier
   - DNN-based Iris Species classification algorithm to distinguish flowers based on measurements
   
