@@ -6,7 +6,7 @@
 
 
 
-_**TensorFlow for Deep Learning**_: (Udacity)
+_**TensorFlow for Deep Learning**_: In progress (Udacity)
 
 - Celsius to Fahrenheit
   - Very simple model (Dense network) with single layer to convert values from Celsius to Fahrenheit. 
