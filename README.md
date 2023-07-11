@@ -8,6 +8,9 @@
 
 ## _**TensorFlow for Deep Learning**_:
 
+#### - [_Clothing Type_](https://github.com/ShivaSaiV/TensorFlow-Development/blob/main/TensorFlow%20for%20Deep%20Learning/ClothingType.ipynb):
+Developed and trained a neural network model on 60,000 training examples and 10,000 testing examples from fashion MNIST dataset for classifying images of clothing. Flattened images (28 * 28 pixels) into 1d vectors with 784 elements. Added a layer with 128 neurons, another layer with 512 neurons, and an output layer with 10 units (10 labels) that includes softmax activation function for probability distribution. This model achieved over 91% accuracy on training data and over 88% accuracy on testing data. 
+
 #### - [_Celsius to Fahrenheit_](https://github.com/ShivaSaiV/TensorFlow-Development/blob/main/TensorFlow%20for%20Deep%20Learning/CelsiustoFahrenheit.ipynb): 
 Very simple model (Dense network) with single layer (first model) and 3 layers (new model) to convert values from Celsius to Fahrenheit. 
 
