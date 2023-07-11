@@ -1,8 +1,7 @@
 # TensorFlow-Development
 
 #### [_Netflix Stock Price Predictor_](https://github.com/ShivaSaiV/TensorFlow-Development/blob/main/Netflix%20Stock%20Price%20Predictor.ipynb): In progress
-- An analysis of Netflix stock data from 2002-2020
-- Creating a model to forecast future stock price
+Analyzed Netflix stock data from 2002-2020. Creating a model to forecast future stock price.
 
 
 
