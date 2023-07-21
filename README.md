@@ -19,7 +19,7 @@ Developed a machine learning model using Convolutional Neural Networks (CNN) to 
 
 Achieved an accuracy of over 99% on training data and over 92% on testing data
 
-#### - [_Flowers Classifier with augmentation_](https://github.com/ShivaSaiV/TensorFlow-Development/blob/main/TensorFlow%20for%20Deep%20Learning/FlowersClassification_augmentation.ipynb)
+#### - [_Flowers Classifier: Convolutional Neural Network and Data Augmentation_](https://github.com/ShivaSaiV/TensorFlow-Development/blob/main/TensorFlow%20for%20Deep%20Learning/FlowersClassification_augmentation.ipynb)
 Task: Now is your turn to apply everything you learned in this lesson to create your own CNN to classify images of flowers. 
 Developed a machine learning model using a convolutional neural network to classify colored images of flowers. However, there was a problem: overfitting. As a result, this uses data augmentation techniques such as rotation, zoom, horizontal flips, width shift, height shift, and dropout to prevent overfitting. 
 
