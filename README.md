@@ -23,7 +23,7 @@ Achieved an accuracy of over 99% on training data and over 92% on testing data
 Task: Now is your turn to apply everything you learned in this lesson to create your own CNN to classify images of flowers. 
 Developed a machine learning model using a convolutional neural network to classify colored images of flowers. However, there was a problem: overfitting. As a result, this uses data augmentation techniques such as rotation, zoom, horizontal flips, width shift, height shift, and dropout to prevent overfitting. 
 
-#### - [_Clothing Type_](https://github.com/ShivaSaiV/TensorFlow-Development/blob/main/TensorFlow%20for%20Deep%20Learning/(Neural%20Network)%20ClothingType.ipynb): Regular neural network
+#### - [_Clothing Type_](https://github.com/ShivaSaiV/TensorFlow-Development/blob/main/TensorFlow%20for%20Deep%20Learning/Regular%20-%20ClothingType.ipynb): Regular neural network
 Developed and trained a neural network model with 60,000 training examples and 10,000 testing examples from fashion MNIST dataset for classifying images of clothing. Flattened images (28 * 28 pixels) into 1d vectors with 784 elements. Added a layer with 128 neurons, another layer with 512 neurons, and an output layer with 10 units (10 labels) that includes softmax activation function for probability distribution. This model achieved over 91% accuracy on training data and over 88% accuracy on testing data. 
 
 #### - [_Celsius to Fahrenheit_](https://github.com/ShivaSaiV/TensorFlow-Development/blob/main/TensorFlow%20for%20Deep%20Learning/CelsiustoFahrenheit.ipynb): 
